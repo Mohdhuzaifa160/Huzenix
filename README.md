@@ -11,6 +11,9 @@
   It works both <b>online and offline</b>, and supports commands like reminders, calculator, notes, file manager, weather, news, and more!
 </p>
 
+> 💡 **Huzenix** stands for:  
+> <b>H</b>ighly <b>U</b>nified <b>Z</b>enith-based <b>E</b>nhanced <b>N</b>eural <b>I</b>nformation e<b>X</b>ecutor
+
 ---
 
 ## 🌟 Features
@@ -24,7 +27,7 @@
 - 📁 File manager (voice-driven)
 - 🧠 AI Conversation Mode
 - 🛑 Sleep, Debug, and Error Modes
-- 🔒 Works inside **Termux** on Android!
+- 📱 Works inside Termux on Android
 
 ---
 
