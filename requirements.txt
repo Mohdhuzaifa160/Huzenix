@@ -1,0 +1,8 @@
+speechrecognition
+pytz
+schedule
+requests
+dateparser
+openai
+wolframalpha
+newsapi-python
